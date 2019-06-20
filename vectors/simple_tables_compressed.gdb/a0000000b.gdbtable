@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db_schemas>
+  <db_schema>
+    <table name="no_geom_short_field_2_feature_1_16_2_16">
+      <indices>
+        <index name="FDO_OBJECTID">
+          <field name="OBJECTID"/>
+        </index>
+      </indices>
+      <tolerance_xy>0x       6       9</tolerance_xy>
+      <domain_minx>0x       1       1</domain_minx>
+      <domain_maxx>0x48CEA13E       0</domain_maxx>
+      <domain_miny>0x1E542268E4C9B18C</domain_miny>
+      <domain_maxy>0x1E53E602       9</domain_maxy>
+      <sp_ind_grid_count>0</sp_ind_grid_count>
+    </table>
+  </db_schema>
+</db_schemas>
