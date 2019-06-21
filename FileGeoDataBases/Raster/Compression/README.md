@@ -11,7 +11,7 @@ This folder is comprised of the following:
 
 In the geodatabases we have:
 
-4) ESRI File GeoDatabse imports with all defaults against a clean/new geodatabase of the reference data downloaded from GitHub.
+4) ESRI File GeoDatabse imports with all defaults against a clean/new geodatabase of the reference data downloaded from GitHub.   
 https://github.com/qgis/QGIS/blob/master/python/plugins/processing/tests/testdata/raster.tif
 https://github.com/qgis/QGIS/blob/master/python/plugins/processing/tests/testdata/dem.tif
 https://github.com/qgis/QGIS/blob/master/python/plugins/processing/tests/testdata/custom/grass7/raster_1class.tif
