@@ -1,6 +1,7 @@
 GDAL Raster Expansion:  ESRI Geodatabase
 
-Wishlist
+Wishlist 
+
 • ESRI Raster [File GeoDatabase] Support  
 • ESRI Raster [Personal GeoDatabase] Support  
 • Internal Pyramids/Overviews  
