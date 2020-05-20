@@ -1,6 +1,6 @@
-GDAL Raster Expansion:  ESRI Geodatabase
+# GDAL Raster Expansion:  ESRI Geodatabase
 
-Wishlist  
+## Wishlist  
 • ESRI Raster [File GeoDatabase] Support  
 • ESRI Raster [Personal GeoDatabase] Support  
 • Internal Pyramids/Overviews  
@@ -40,6 +40,6 @@ Wishlist
   - JPEG  
   - JPEG2000  
 
-Implemented  
+## Implemented  
 
-Out of Scope  
+## Out of Scope  
