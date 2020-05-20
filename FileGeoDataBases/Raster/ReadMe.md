@@ -27,11 +27,13 @@ Wishlist
   - 32S  
   - 32U  
   - 64  
+
 • Compression [File GeoDatabase]  
   - NONE  
   - LZ77  
   - JPEG  
   - JPEG2000  
+
 • Compression [Personal GeoDatabase]  
   - NONE  
   - LZ77  
